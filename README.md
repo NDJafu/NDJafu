@@ -1,7 +1,7 @@
 # Hi there 👋
 ## 💢 About Me
 
-- I am Nguyen Do Gia Phu (NDJafu or jafu), a **Full-stack App Developer** (specializing in **React for Web and Flutter for Mobile**). I'm currently a student at Dai Hoc Van Lang pursuing my **Bachelor of Engineering** in **Software Engineering** and will graduate in late-2025.
+- I am Nguyen Do Gia Phu (NDJafu or jafu), a **Full-stack App Developer** (specialty is **Web and Mobile App Development**).
 
 ## 🌟 Skills
 ### Languages
